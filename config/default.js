@@ -57,8 +57,8 @@ module.exports = {
   },
   ssltunnel: {
     enabled: true,
-    registration_endpoint: "https://api.techbeast.org:8443",
-    domain: "techbeast.org",
+    registration_endpoint: "https://api.riyasaa.com:8443",
+    domain: "riyasaa.com",
     pagekite_cmd: path.normalize(path.join(process.cwd(), "pagekite.py")),
     port: 443,
     certemail: "hello@riyasaalabs.com"
